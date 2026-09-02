@@ -33,10 +33,12 @@ Las áreas comerciales requieren visibilidad en tiempo real para identificar var
 3. **Fidelización por Canal:** Potenciar promociones dirigidas en los canales digitales que presentan el mayor margen bruto unitario.
 
 ## 📁 Estructura del Repositorio
+```text
 ├── data/               # Datasets procesados y fuentes de información (.csv / .xlsx)
 ├── dashboards/         # Archivo del tablero interactivo (.pbix / .twbx / .html / .json)
 ├── docs/               # Documentación funcional y capturas del reporte
 └── README.md           # Documentación principal del repositorio
+```
 
 ---
 👤 **Autor:** Juan Pablo Donoso Aedo | [LinkedIn](https://www.linkedin.com/in/juanpdonoso/)
